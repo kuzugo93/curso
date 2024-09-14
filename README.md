@@ -1,2 +1,1 @@
-# curso
-este es un repositorio de prueba para el modulo 2 del curso Henry
+este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
